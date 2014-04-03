@@ -46,9 +46,10 @@ to the same rules as above, to provide a boolean result with
 
 
 ```ruby
+fuzzy_url = FuzzyURL.new('http://*.example.com/*')
 fuzzy_url.matches?('http://www.example.com/index.html')  # => true
 fuzzy_url.matches?('https://www.example.com')            # => false
-fuzzy_url.matches?('http://www.example.com:8080')        # => false
+fuzzy_url.matches?('http://www.example.com:8080')        # => true
 fuzzy_url.matches?('www.us.example.com')                 # => true
 fuzzy_url.matches?('example.com')                        # => false
 ```
