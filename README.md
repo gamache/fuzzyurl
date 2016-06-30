@@ -1,19 +1,19 @@
 # Fuzzyurl
 
-A library for parsing, construction, and wildcard matching of URLs.
+A library for parsing, construction, and wildcard matching of URLs.  Three of them, actually -- the same interface presented in Elixir, Ruby, and JavaScript.
 
 Available for:
-
-* [Ruby](https://github.com/gamache/fuzzyurl.rb)
-
-  [![Build Status](https://travis-ci.org/gamache/fuzzyurl.rb.svg?branch=master)](https://travis-ci.org/gamache/fuzzyurl.rb)
-  [![Coverage Status](https://coveralls.io/repos/gamache/fuzzyurl.rb/badge.svg?branch=master&service=github)](https://coveralls.io/github/gamache/fuzzyurl.rb?branch=master)
 
 * [Elixir](https://github.com/gamache/fuzzyurl.ex)
 
   [![Build Status](https://travis-ci.org/gamache/fuzzyurl.ex.svg?branch=master)](https://travis-ci.org/gamache/fuzzyurl.ex)
   [![Hex.pm Version](http://img.shields.io/hexpm/v/fuzzyurl.svg?style=flat)](https://hex.pm/packages/fuzzyurl)
   [![Coverage Status](https://coveralls.io/repos/gamache/fuzzyurl.ex/badge.svg?branch=master&service=github)](https://coveralls.io/github/gamache/fuzzyurl.ex?branch=master)
+
+* [Ruby](https://github.com/gamache/fuzzyurl.rb)
+
+  [![Build Status](https://travis-ci.org/gamache/fuzzyurl.rb.svg?branch=master)](https://travis-ci.org/gamache/fuzzyurl.rb)
+  [![Coverage Status](https://coveralls.io/repos/gamache/fuzzyurl.rb/badge.svg?branch=master&service=github)](https://coveralls.io/github/gamache/fuzzyurl.rb?branch=master)
 
 * [JavaScript](https://github.com/gamache/fuzzyurl.js)
 
